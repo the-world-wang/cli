@@ -1,4 +1,4 @@
-package com.wag.cli;
+package com.wang.cli;
 
 import java.lang.reflect.InvocationTargetException;
 import java.lang.reflect.Method;

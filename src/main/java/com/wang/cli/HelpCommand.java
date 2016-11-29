@@ -1,4 +1,4 @@
-package com.wag.cli;
+package com.wang.cli;
 
 /**
  * Created by paopao on 16/11/29.
